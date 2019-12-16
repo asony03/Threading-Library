@@ -1,0 +1,10 @@
+References
+
+http://pubs.opengroup.org/onlinepubs/009695399/functions/makecontext.html
+http://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxbd00/rscntx.htm
+https://machiry.wordpress.com/2012/01/02/mfiber-simple-user-land-thread-library/
+http://nitish712.blogspot.com/2012/10/thread-library-using-context-switching.html
+http://www.evanjones.ca/software/threading.html
+http://www.sanfoundry.com/c-program-queue-using-linked-list/
+https://www.cs.mtu.edu/~shene/NSF-3/e-Book/SEMA/basics.html
+http://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxbd00/rmctxt.htm
